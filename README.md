@@ -1,35 +1,48 @@
-## Hi, I’m Adamu Mubarak Muhammad.
+# Hi, I'm Adamu Mubarak Muhammad 👋
 
-Computer Science graduate and Flutter developer with experience building cross platform mobile applications. Focus on building software that solves real problems. Interests include mobile development, artificial intelligence, software architecture, and cybersecurity.
+Computer Science graduate and Flutter developer with experience building cross-platform mobile applications. I focus on building software that solves real problems, with interests in mobile development, artificial intelligence, software architecture, and cybersecurity.
 
-Tech Stack
+---
 
-Mobile:
-Flutter, Dart, GetX, Riverpod, Provider
+## 🛠️ Tech Stack
 
-Backend and Database:
-Supabase, Firebase, SQLite, REST APIs
+**Mobile**
+`Flutter` `Dart` `GetX` `Riverpod` `Provider`
 
-Tools and Practices:
-Git, GitHub, Clean Architecture, Object Oriented Programming
+**Backend & Database**
+`Supabase` `Firebase` `SQLite` `REST APIs`
 
-Current Focus
+**Tools & Practices**
+`Git` `GitHub` `Clean Architecture` `OOP`
 
-• AI for Developers training through KodeCamp
-• Building mobile applications with Flutter and structured development practices
-• Studying cybersecurity, networking, and penetration testing
+---
 
-Projects
+## 🔭 Current Focus
 
-• Tailoring E Commerce System, platform connecting tailors and fashion designers with customers
-• Liturgy, Catholic hymn application with audio playback and offline access
-• School Transport System for managing routes and transport operations
-• Lecture Reminder System for academic scheduling and notifications
-• WordWiz, spelling and vocabulary learning application
+- 🤖 AI for Developers training through **KodeCamp**
+- 📱 Building mobile applications with Flutter and structured development practices
+- 🔐 Studying cybersecurity, networking, and penetration testing
 
-Open for
+---
 
-• Software development roles
-• Mobile application development roles
-• NYSC PPA opportunities in tech focused organizations
-• Collaboration on Flutter, AI, and software engineering projects
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| **Tailoring E-Commerce System** | Platform connecting tailors and fashion designers with customers |
+| **Liturgy** | Catholic hymn app with audio playback and offline access |
+| **School Transport System** | Route and transport operations management for schools |
+| **Lecture Reminder System** | Academic scheduling and notification platform |
+| **WordWiz** | Spelling and vocabulary learning application |
+
+---
+
+## 🤝 Open For
+
+- 💼 Software development and mobile application roles
+- 🇳🇬 NYSC PPA opportunities in tech-focused organizations
+- 🤝 Collaboration on Flutter, AI, and software engineering projects
+
+---
+
+*Let's build something that matters.*
