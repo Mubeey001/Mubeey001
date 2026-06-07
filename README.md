@@ -4,7 +4,7 @@ Computer Science graduate and Flutter developer with experience building cross-p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Mobile**
 `Flutter` `Dart` `GetX` `Riverpod` `Provider`
@@ -17,15 +17,15 @@ Computer Science graduate and Flutter developer with experience building cross-p
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 
-- 🤖 AI for Developers training through **KodeCamp**
-- 📱 Building mobile applications with Flutter and structured development practices
-- 🔐 Studying cybersecurity, networking, and penetration testing
+- AI for Developers training through **KodeCamp**
+- Building mobile applications with Flutter and structured development practices
+- Studying cybersecurity, networking, and penetration testing
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 |---|---|
@@ -39,8 +39,8 @@ Computer Science graduate and Flutter developer with experience building cross-p
 
 ## 🤝 Open For
 
-- 💼 Software development and mobile application roles
-- 🤝 Collaboration on Flutter, AI, and software engineering projects
+- Software development and mobile application roles
+- Collaboration on Flutter, AI, and software engineering projects
 
 ---
 
