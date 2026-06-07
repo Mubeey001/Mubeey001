@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I’m Adamu Mubarak Muhammad.
 
-<!--
-**Mubeey001/Mubeey001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate and Flutter developer with experience building cross platform mobile applications. Focus on building software that solves real problems. Interests include mobile development, artificial intelligence, software architecture, and cybersecurity.
 
-Here are some ideas to get you started:
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mobile:
+Flutter, Dart, GetX, Riverpod, Provider
+
+Backend and Database:
+Supabase, Firebase, SQLite, REST APIs
+
+Tools and Practices:
+Git, GitHub, Clean Architecture, Object Oriented Programming
+
+Current Focus
+
+• AI for Developers training through KodeCamp
+• Building mobile applications with Flutter and structured development practices
+• Studying cybersecurity, networking, and penetration testing
+
+Projects
+
+• Tailoring E Commerce System, platform connecting tailors and fashion designers with customers
+• Liturgy, Catholic hymn application with audio playback and offline access
+• School Transport System for managing routes and transport operations
+• Lecture Reminder System for academic scheduling and notifications
+• WordWiz, spelling and vocabulary learning application
+
+Open for
+
+• Software development roles
+• Mobile application development roles
+• NYSC PPA opportunities in tech focused organizations
+• Collaboration on Flutter, AI, and software engineering projects
