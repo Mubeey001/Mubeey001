@@ -40,7 +40,6 @@ Computer Science graduate and Flutter developer with experience building cross-p
 ## 🤝 Open For
 
 - 💼 Software development and mobile application roles
-- 🇳🇬 NYSC PPA opportunities in tech-focused organizations
 - 🤝 Collaboration on Flutter, AI, and software engineering projects
 
 ---
